@@ -4,7 +4,6 @@ metadata:
   name: mysql-init-scripts
 data:
   init.sql: |
-    -- Your SQL script content here
     CREATE DATABASE mybooks;
     USE mybooks;
 
